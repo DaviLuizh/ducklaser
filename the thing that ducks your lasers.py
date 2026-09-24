@@ -14,7 +14,7 @@ if not cap.isOpened():
 
     # things that make work
 pyautogui.PAUSE = 0.001
-laser_is_on_screen = False
+laser_estava_na_tela = False
 
 print("everything red with a white center it aims. q to exit")
 
